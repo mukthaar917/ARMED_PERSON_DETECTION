@@ -1,0 +1,10 @@
+train: "D:/ARMED_PERSON_DETECTION/data/train/images"
+val  : "D:/ARMED_PERSON_DETECTION/data/valid/images"
+test : "D:/ARMED_PERSON_DETECTION/data/test/images"
+
+nc: 3
+
+names: 
+  0: gun
+  1: person
+  2: person with a gun
