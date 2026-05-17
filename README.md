@@ -161,6 +161,8 @@ Contains:
 * Output video
 * Detection screenshots
 
+<img width="1309" height="767" alt="Screenshot 1" src="https://github.com/user-attachments/assets/11c499e7-7c81-4cc7-9a0c-994e0398b7ba" />
+
 ---
 
 ## 16. Requirements
