@@ -83,6 +83,10 @@ video_path = 0
 * Training approach: Transfer learning (pretrained weights)
 * Augmentation: Applied via Roboflow
 
+* <img width="1007" height="492" alt="2" src="https://github.com/user-attachments/assets/ac320bf7-543f-4b21-8c71-f96c713cdfa9" />
+
+<img width="896" height="486" alt="3" src="https://github.com/user-attachments/assets/33e47331-902f-402b-ac96-278afbe89882" />
+
 ---
 
 ## 9. Inference Pipeline
@@ -116,6 +120,10 @@ video_path = 0
 * Precision: 53.3%
 * Recall: 80.5%
 * F1 Score: 64.2%
+
+<img width="991" height="342" alt="1" src="https://github.com/user-attachments/assets/16edcdee-74a1-46d6-a5cd-3ab09f25a53c" />
+
+<img width="1006" height="329" alt="4" src="https://github.com/user-attachments/assets/84646e77-03be-4ccd-9828-a9754adc9caa" />
 
 ---
 
